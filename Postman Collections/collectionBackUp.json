@@ -507,7 +507,7 @@
 							"script": {
 								"id": "faff9745-c0b1-4731-af68-9c382dd226a6",
 								"exec": [
-									""
+									"console.log(\"changes in main\");"
 								],
 								"type": "text/javascript",
 								"packages": {}
