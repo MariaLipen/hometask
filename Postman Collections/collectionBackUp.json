@@ -142,6 +142,8 @@
 									"\r",
 									"console.log(encodeURIComponent(\"testing home task 6\"));\r",
 									"console.log(decodeURIComponent(\"testing%20home%20task%206\"));\r",
+									"// Added console.log in the collection scripts\r",
+									"console.log(\"Updates made in collection\");\r",
 									""
 								],
 								"type": "text/javascript",
