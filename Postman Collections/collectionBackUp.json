@@ -75,7 +75,9 @@
 									"    pm.test(\"Body contains value: available\", function () {\r",
 									"        pm.expect(response.json()[0].status).to.eql(\"available\");\r",
 									"    });\r",
-									"});"
+									"});\r",
+									"\r",
+									"// fork"
 								],
 								"type": "text/javascript",
 								"packages": {}
