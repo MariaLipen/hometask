@@ -673,6 +673,19 @@
 				}
 			],
 			"id": "41ef59fd-ff18-41aa-95f5-74bafca12004"
+		},
+		{
+			"name": "NEW REQUEST CREATED IN FORK",
+			"id": "d20ca9c1-d4f3-4aa0-854a-1c2b27dd057e",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": ""
+			},
+			"response": []
 		}
 	],
 	"event": [
